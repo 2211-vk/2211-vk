@@ -1,5 +1,7 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile!)
+<!-- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile!)-->
+<img src="animation.svg" alt="Welcome Animation" width="60%"/>
 
+#
 # ABOUT ME
 *My name is **Khang**, a student at Le Hong Phong High School for the Gifted* 🏫
 
