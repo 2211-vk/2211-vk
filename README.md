@@ -1,11 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile!)
 
 # ABOUT ME
+*My name is **Khang**, a student at Le Hong Phong High School for the Gifted* 🏫
 
-## 🤔 WHO AM I
-My name is **Khang**, a student at Le Hong Phong High School for the Gifted 🏫
-
-I am currently looking to develop my skills and knowledge further, and am interested in meeting like-minded people. Thus, don't hesitate to contact me via email or social media!
+*I am currently looking to develop my skills and knowledge further, and am interested in meeting like-minded people. Thus, don't hesitate to contact me via email or social media!*
 
 ## 📚 MY SKILLS AND EXPERIENCES
 ### 🛠 Hard skills:
