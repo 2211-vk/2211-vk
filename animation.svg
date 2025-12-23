@@ -19,8 +19,8 @@
     <text x="220" y="100">E<animate attributeName="x" values="220;222;218;220" dur="0.16s" repeatCount="indefinite"/><animate attributeName="y" values="100;98;102;100" dur="0.17s" repeatCount="indefinite"/></text>
     <text x="260" y="100">T<animate attributeName="x" values="260;262;258;260" dur="0.15s" repeatCount="indefinite"/><animate attributeName="y" values="100;102;98;100" dur="0.18s" repeatCount="indefinite"/></text>
     <text x="290" y="100">O<animate attributeName="x" values="290;292;288;290" dur="0.14s" repeatCount="indefinite"/><animate attributeName="y" values="100;98;102;100" dur="0.19s" repeatCount="indefinite"/></text>
-    <text x="350" y="100">M<animate attributeName="x" values="330;332;328;330" dur="0.17s" repeatCount="indefinite"/><animate attributeName="y" values="100;102;98;100" dur="0.16s" repeatCount="indefinite"/></text>
-    <text x="380" y="100">Y<animate attributeName="x" values="360;362;358;360" dur="0.18s" repeatCount="indefinite"/><animate attributeName="y" values="100;98;102;100" dur="0.15s" repeatCount="indefinite"/></text>
+    <text x="350" y="100">M<animate attributeName="x" values="338;340;336;338" dur="0.17s" repeatCount="indefinite"/><animate attributeName="y" values="100;102;98;100" dur="0.16s" repeatCount="indefinite"/></text>
+    <text x="380" y="100">Y<animate attributeName="x" values="365;367;363;365" dur="0.18s" repeatCount="indefinite"/><animate attributeName="y" values="100;98;102;100" dur="0.15s" repeatCount="indefinite"/></text>
     <text x="410" y="100">G<animate attributeName="x" values="400;402;398;400" dur="0.16s" repeatCount="indefinite"/><animate attributeName="y" values="100;102;98;100" dur="0.14s" repeatCount="indefinite"/></text>
     <text x="440" y="100">I<animate attributeName="x" values="430;432;428;430" dur="0.15s" repeatCount="indefinite"/><animate attributeName="y" values="100;98;102;100" dur="0.17s" repeatCount="indefinite"/></text>
     <text x="460" y="100">T<animate attributeName="x" values="450;452;448;450" dur="0.14s" repeatCount="indefinite"/><animate attributeName="y" values="100;102;98;100" dur="0.18s" repeatCount="indefinite"/></text>
@@ -33,5 +33,7 @@
     <text x="670" y="100">F<animate attributeName="x" values="670;672;668;670" dur="0.18s" repeatCount="indefinite"/><animate attributeName="y" values="100;98;102;100" dur="0.19s" repeatCount="indefinite"/></text>
     <text x="700" y="100">I<animate attributeName="x" values="700;702;698;700" dur="0.16s" repeatCount="indefinite"/><animate attributeName="y" values="100;102;98;100" dur="0.16s" repeatCount="indefinite"/></text>
     <text x="720" y="100">L<animate attributeName="x" values="720;722;718;720" dur="0.15s" repeatCount="indefinite"/><animate attributeName="y" values="100;98;102;100" dur="0.15s" repeatCount="indefinite"/></text>
-    <text x="750" y="100">E<animate attributeName="x" values="750;752;748;750" dur="0.14s" repeatCount="indefinite"/><animate attributeName="y" values="100;102;98;100" dur="0.14s" repeatCount="indefinite"/></text>  </g>
+    <text x="750" y="100">E<animate attributeName="x" values="750;752;748;750" dur="0.14s" repeatCount="indefinite"/><animate attributeName="y" values="100;102;98;100" dur="0.14s" repeatCount="indefinite"/></text> 
+    <text x="770" y="100">!<animate attributeName="x" values="775;777;773;775" dur="0.17s" repeatCount="indefinite"/><animate attributeName="y" values="100;102;98;100" dur="0.15s" repeatCount="indefinite"/></text>  
+  </g>
 </svg>
