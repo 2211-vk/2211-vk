@@ -2,7 +2,7 @@
 <img src="animation.svg" alt="Welcome Animation" width="80%"/>
 
 #
-# ABOUT ME
+# 🐪 ABOUT ME
 *My name is **Khang**, a student at Le Hong Phong High School for the Gifted* 🏫
 
 *I am currently looking to develop my skills and knowledge further, and am interested in meeting like-minded people. Thus, don't hesitate to contact me via email or social media!*
@@ -34,7 +34,7 @@ I'm curious about various domains, including:
 
 🔎 *Neuroscience, Cognitive Science, Quantum Physics* - fields that fascinate me and in which I am currently self-educating.
 
-# PROJECTS
+# 📃 PROJECTS
 [**Image Search System Using Facial and Text Recognition**](https://github.com/2211-vk/Image-search-system-using-facial-and-text-recognition): A full-featured multimodal image search application built with Streamlit that allows users to search through large collections of images using *Face Search* and *Image Search*
 
 [**Bioproject: Predicting and Simulating Drug-Resistant Genes in Bacteria**](https://github.com/2211-vk/Bioproject): A bioinformatics pipeline designed to predict and analyze antibiotic resistance genes in Mycobacterium tuberculosis (MTBC) using a phylogenetic tree-based federated genetic algorithm. I am also developing integration for quantum simulation.
